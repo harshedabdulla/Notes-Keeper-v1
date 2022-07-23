@@ -4,22 +4,10 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .add-docs{
-  font-size: x-large;
-
+  font-size: medium;
+  color: green;
   height: 40px;
-    width: 200px;
-    border: none;
-    cursor: pointer;
-    background-image: repeating-linear-gradient(-45deg, 
-    #7BDFF2 10px 30px,
-    #B2F7EF 30px 50px,
-    #EFF7F6 50px 70px,
-    #F7D6E0 70px 90px,
-    #F2B5D4 90px 110px
-);
-color: black;
-}
-
-.add-docs:hover {
-  background-position: 20% center;
+  width: 200px;
+  border: none;
+  cursor: pointer;
 }
